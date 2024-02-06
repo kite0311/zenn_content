@@ -1,0 +1,28 @@
+{
+  "title": "flutterレイアウト用",
+  "closed": false,
+  "archived": false,
+  "created_at": "2023-12-22",
+  "comments": [
+    {
+      "author": "kite0311",
+      "created_at": "2023-12-22",
+      "body_markdown": "Stack\n要素を重ねるのに使う\n\nALign\n要素位置を決める"
+    },
+    {
+      "author": "kite0311",
+      "created_at": "2023-12-22",
+      "body_markdown": "InkWell\n要素をタップで選択できるようにする"
+    },
+    {
+      "author": "kite0311",
+      "created_at": "2023-12-22",
+      "body_markdown": "dio パッケージなに？\nhttps://pub.dev/packages/dio\nAPI通信するために使う"
+    },
+    {
+      "author": "kite0311",
+      "created_at": "2023-12-24",
+      "body_markdown": "https://zenn.dev/joo_hashi/articles/b09b314cad7882\nshare_plusの仕様変更\n"
+    }
+  ]
+}

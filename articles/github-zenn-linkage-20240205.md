@@ -1,8 +1,11 @@
 ---
 title: "連携test"
 emoji: "🐕"
-type: "tech" # tech: 技術記事 / idea: アイデア
-topics: ["zenn", "Github"]
-published: true
+type: "tech"
+topics:
+  - "github"
+  - "zenn"
+published: false
 ---
+
 Hello World!!

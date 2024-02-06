@@ -1,10 +1,13 @@
 ---
 title: "Flutter ListView内でTextFieldを使用する際の注意点"
-emoji: "🍣"
-type: "tech" # tech: 技術記事 / idea: アイデア
-topics: ["flutter"]
+emoji: "⚠️"
+type: "tech"
+topics:
+  - "flutter"
 published: true
+published_at: "2024-02-06 01:53"
 ---
+
 Flutterで個人開発中にListViewの中でTextFieldを使用したい場面があったので実装したところ、以下のようなレンダリングエラーが出たため備忘録として記録しておきます。
 
 ## エラー

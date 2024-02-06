@@ -1,0 +1,23 @@
+{
+  "title": "SHA-1の取得",
+  "closed": false,
+  "archived": false,
+  "created_at": "2024-01-04",
+  "comments": [
+    {
+      "author": "kite0311",
+      "created_at": "2024-01-04",
+      "body_markdown": "keytool -list -v -keystore C:\\Users\\USER NAME\\.android\\debug.keystore -alias androiddebugkey -storepass android -keypass android\n\nUSER NAMEを自分のユーザー名に変更して実行する。"
+    },
+    {
+      "author": "kite0311",
+      "created_at": "2024-01-04",
+      "body_markdown": "参考記事：\nhttps://ticktickboom.hatenablog.com/entry/2021/03/22/170838"
+    },
+    {
+      "author": "kite0311",
+      "created_at": "2024-01-04",
+      "body_markdown": "新たな環境で実施する場合はJavaの導入が必須"
+    }
+  ]
+}
